@@ -1,0 +1,7 @@
+Connecting utilities to Gmail with Perl.
+
+Docs: https://developers.google.com/gmail/
+About IMAP, SMPT and XOAUTH2: https://developers.google.com/gmail/imap/imap-smtp
+
+OAuth2 credentials starting from here:
+https://console.developers.google.com/apis/credentials
